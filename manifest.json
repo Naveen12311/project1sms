@@ -1,0 +1,25 @@
+{
+	"name":"sallon wala",
+	"short_name":"sallon",
+	"icons":[
+               {
+                
+                "src": "img/pic.png",
+                "type":"image/png",
+                "sizes":"192x192"
+               },{
+               "src": "img/pic.png",
+                "type":"image/png",
+                "sizes":"98x98"
+               },{
+               "src": "img/pic.png",
+                "type":"image/png",
+                "sizes":"512x512"
+               }
+	],
+	"start_url":"index.php",
+    "scope":".",
+    "display":"standalone",
+    "background_color":"white",
+    "theme_color":"blue"
+}
